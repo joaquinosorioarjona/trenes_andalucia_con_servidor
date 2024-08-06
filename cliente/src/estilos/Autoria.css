@@ -1,0 +1,8 @@
+.autoria-control.leaflet-control.leaflet-bar {
+  font-size: 12px;
+  font: Calibri, bold, sans-serif;
+  padding: 10px;
+  background-color: #F0FFFF; 
+  color: #483D8B;
+  border-radius: 5px; 
+}

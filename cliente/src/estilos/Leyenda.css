@@ -1,0 +1,93 @@
+.legend {
+  background-color: #F0FFFF;
+  padding: 10px;
+  line-height: 18px;
+  color: #483D8B;
+  font: Calibri, sans-serif;
+  font-size: 12px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+.legend h4 {
+  margin: 0 0 5px;
+  color: #483D8B;
+  font: Calibri, bold, sans-serif;
+  font-size: 14px;
+  text-align: center;
+}
+
+.legend i {
+  display: inline-block;
+  width: 18px;
+  height: 8px;
+  margin-right: 8px;
+  vertical-align: bottom; 
+  opacity: 0.7;
+  border-top-style: solid; 
+}
+
+.legend .color-ave {
+  border-top-color: #00008B;
+  border-top-width: 8px;
+}
+
+.legend .color-alvia {
+  border-top-color: #6c878f;
+  border-top-width: 6px;
+}
+
+.legend .color-media-distancia-a1 {
+  border-top-color: #287d6a;
+  border-top-width: 4px;
+}
+
+.legend .color-media-distancia-a2 {
+  border-top-color: #064f8c;
+  border-top-width: 4px;
+}
+
+.legend .color-media-distancia-a3 {
+  border-top-color: #f6ab4e;
+  border-top-width: 4px;
+}
+
+.legend .color-media-distancia-a3b {
+  border-top-color: #d8c32f;
+  border-top-width: 4px;
+}
+
+.legend .color-media-distancia-a4 {
+  border-top-color: #4b5284;
+  border-top-width: 4px;
+}
+
+.legend .color-media-distancia-a5 {
+  border-top-color: #c4849f;
+  border-top-width: 4px;
+}
+
+.legend .color-media-distancia-a6 {
+  border-top-color: #3c1342;
+  border-top-width: 4px;
+}
+
+.legend .color-media-distancia-a7 {
+  border-top-color: #a52263;
+  border-top-width: 4px;
+}
+
+.legend .color-media-distancia-a8 {
+  border-top-color: #2189bc;
+  border-top-width: 4px;
+}
+
+.legend .color-media-distancia-madrid-linares-jaen {
+  border-top-color: #70787b;
+  border-top-width: 4px;
+}
+
+.legend .color-cercanias {
+  border-top-color: #FF0000;
+  border-top-width: 2px;
+}

@@ -1,0 +1,16 @@
+.red-circle-cursor {
+  cursor: url('data:image/svg+xml;charset=utf-8,%3Csvg width="15" height="15" xmlns="http://www.w3.org/2000/svg"%3E%3Ccircle cx="12" cy="12" r="10" fill="%23FF0000" stroke="%23FFFFFF" stroke-width="2" /%3E%3C/svg%3E'), auto;
+ 
+.temp-marker {
+  display: inline-block;
+}
+
+.temp-marker-circle {
+  width: 8px;
+  height: 8px;
+  background-color: #8B0000;
+  border-radius: 50%;
+  border: 2px solid #000000;
+  opacity: 1;
+}
+}

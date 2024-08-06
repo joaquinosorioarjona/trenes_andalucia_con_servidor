@@ -1,0 +1,24 @@
+.titulo-control.leaflet-control.leaflet-bar {
+  font: Calibri, bold, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+  background-color: #F0FFFF; 
+  color: #483D8B;
+  text-align: center;
+  border-radius: 5px; 
+}
+.titulo-control .subtitle {
+  font-size: 14px;
+  font: Calibri, sans-serif;
+  font-weight: normal;
+  margin-top: 5px;
+  color: #483D8B;
+}
+.titulo-control .autor {
+  font-size: 10px;
+  font: Calibri, sans-serif;
+  font-weight: normal;
+  margin-top: 5px;
+  color: #483D8B;
+}

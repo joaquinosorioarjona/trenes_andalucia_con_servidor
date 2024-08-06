@@ -1,0 +1,28 @@
+.north-arrow-container {
+  position: absolute;
+  bottom: 30px; 
+  left: 10px;   
+  z-index: 1000; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.north-arrow {
+  position: relative;
+  width: 0;
+  height: 0;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom: 30px solid #000; 
+}
+
+.north-label {
+  position: absolute;
+  top: -30px; 
+  left: 50%;
+  transform: translateX(-50%);
+  color: #000; 
+  font-weight: bold;
+  font-size: 16px; 
+}

@@ -1,0 +1,16 @@
+.filter-container {
+  background-color: #F0FFFF;
+  padding: 10px;
+  border-radius: 5px;
+  position: absolute;  
+  bottom: 20px;
+  right: 10px;
+  z-index: 1000;
+}
+
+.filter-title {
+  font-family: Calibri, sans-serif;
+  color: #483D8B;
+  font-weight: bold;
+  font-size: 14px;
+}
