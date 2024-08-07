@@ -5,7 +5,6 @@ import '../estilos/Buffer.css';
 
 const Buffer = ({ latLng, radius, setRadius, handleActivateButtonClick, handleRestoreButtonClick, isBufferActive }) => {
   useEffect(() => {
-    // Cambia el cursor si el buffer está activo
     if (isBufferActive) {
       document.querySelector('.leaflet-container').classList.add('red-circle-cursor');
     } else {

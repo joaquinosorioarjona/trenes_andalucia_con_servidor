@@ -1,7 +1,7 @@
 .add-button {
     position: absolute;
-    bottom: 70px; 
-    right: 20px; 
+    top: 10px; 
+    left: 50px; 
     background-color: #007bff;
     color: white;
     border: none;
